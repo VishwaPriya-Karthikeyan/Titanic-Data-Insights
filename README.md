@@ -16,7 +16,7 @@ Tools Used
 - Seaborn
 - Matplotlib
 - Plotly (optional)
-- 
+
 Files
 
 - `titanic_eda_analysis.py`: Main EDA script
